@@ -18,7 +18,7 @@ public class vezba {
 			if(p==q) {
 				System.out.println(p || q);
 			}
-			System.out.println(q);	
+			System.out.println(q);	//Prints code
 	}
 }
 }
